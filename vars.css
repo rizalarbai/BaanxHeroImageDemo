@@ -1,0 +1,45 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --black: #171717;
+  --primary: #003edd;
+  --white: #ffffff;
+  --gradient: linear-gradient(
+    90deg,
+    rgba(0, 62, 221, 1) 0%,
+    rgba(64, 168, 223, 1) 100%
+  );
+  --blue: #53c4ff;
+  --a: linear-gradient(
+    -83.82deg,
+    rgba(0, 62, 221, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  --tesr: #8efae8;
+  --tezos: linear-gradient(
+    89.36deg,
+    rgba(15, 97, 255, 1) 0%,
+    rgba(81, 75, 211, 1) 51.238662004470825%,
+    rgba(96, 70, 201, 1) 63.05455565452576%,
+    rgba(158, 50, 159, 1) 100%
+  );
+  --bxx-gradient: linear-gradient(
+    90deg,
+    rgba(158, 105, 250, 1) 0%,
+    rgba(119, 242, 161, 1) 100%
+  );
+  --cl-gradient: linear-gradient(
+    180deg,
+    rgba(255, 83, 0, 1) 0%,
+    rgba(255, 117, 51, 1) 100%
+  );
+
+  /* Fonts */
+  --text-font-family: OpenSans-Regular, sans-serif;
+  --text-font-size: 16px;
+  --text-line-height: 150%;
+  --text-font-weight: 400;
+  --text-font-style: normal;
+
+  /* Effects */
+}
